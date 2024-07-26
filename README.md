@@ -1,4 +1,7 @@
 # Autora
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/512e940f-e5bf-41e1-8bf0-87e55a6d6e3d" />
+</p>
 
 Autora is a collection of scripts designed to assist town halls in disseminating information to citizens efficiently and effectively.
 
